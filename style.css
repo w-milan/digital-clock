@@ -1,0 +1,10 @@
+
+.clock {
+  font-size: 3rem;
+  color: #ffff00;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.clock span {
+  padding: 20px;
+  background: #444;
+}
